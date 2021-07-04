@@ -1,0 +1,1 @@
+Exercices from https://projecteuler.net/

@@ -1,0 +1,2 @@
+print("isso é iqual a ", (((int(input("digite o valor em kelvin"))) - 273.14) * 9/5 + 32),"fahrenheit") if input("ditite 'K' para converter kenven pra fahrenheit e 'F' para converter fahrenheit para kelvin") == "K" else print("isso é iqual a ", (((int(input("digite o valor em fahrenheit"))) - 32) * 5/9 + 273.14),"kelvin")
+#print((int(input("digite")) - 2))
